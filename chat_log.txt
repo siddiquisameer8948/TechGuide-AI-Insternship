@@ -1,0 +1,60 @@
+[2026-10-27 23:26:24] You: hello
+[2026-10-27 23:26:24] TechBot: Hello! Good evening. How can I help you today?
+[2026-10-27 23:26:34] You: what are you doing
+[2026-10-27 23:26:34] TechBot: I'm TechBot, a rule-based chatbot built with Python.
+[2026-10-27 23:26:42] You: what is your name
+[2026-10-27 23:26:42] TechBot: I'm TechBot, a rule-based chatbot built with Python.
+[2026-10-28 09:18:47] You: hello
+[2026-10-28 09:18:47] TechBot: Hi! I'm TechBot. Ask me anything or type 'help'.
+[2026-10-28 09:18:55] You: what is yourr name
+[2026-10-28 09:18:55] TechBot: Sorry, I didn't understand that. Type 'help' to see what I can do.
+[2026-10-28 09:18:59] You: help
+[2026-10-28 09:18:59] TechBot: Here is what I can do:
+  - Greet you and remember your name  (try: 'My name is Aman')
+  - Tell the time and date            (try: 'What time is it?')
+  - Do maths                          (try: 'calculate 25 * 4 + 10')
+  - Tell jokes and fun facts          (try: 'Tell me a joke')
+  - Answer questions about AI         (try: 'What is AI?')
+  - Say goodbye                       (try: 'bye')
+[2026-10-28 09:19:12] You: tell jokes and fun facts
+[2026-10-28 09:19:12] TechBot: Hmm, I don't have a rule for that yet. Could you rephrase it?
+[2026-10-28 09:19:25] You: tell me a joke
+[2026-10-28 09:19:25] TechBot: There are 10 types of people: those who understand binary and those who don't.
+[2026-10-28 09:19:34] You: bye
+[2026-10-28 09:19:34] TechBot: Goodbye! Have a great day.
+[2026-10-28 20:47:56] You: hello
+[2026-10-28 20:47:56] TechBot: Hi! I'm TechBot. Ask me anything or type 'help'.
+[2026-10-28 20:48:12] You: help
+[2026-10-28 20:48:12] TechBot: Here is what I can do:
+  - Greet you and remember your name  (try: 'My name is Aman')
+  - Tell the time and date            (try: 'What time is it?')
+  - Do maths                          (try: 'calculate 25 * 4 + 10')
+  - Tell jokes and fun facts          (try: 'Tell me a joke')
+  - Answer questions about AI         (try: 'What is AI?')
+  - Say goodbye                       (try: 'bye')
+[2026-10-28 20:48:32] You: my name is Azim
+[2026-10-28 20:48:32] TechBot: Nice to meet you, Azim! I'll remember your name.
+[2026-10-28 20:48:42] You: what time is it
+[2026-10-28 20:48:42] TechBot: The current time is 08:48 PM.
+[2026-10-28 20:49:14] You: what is ai
+[2026-10-28 20:49:14] TechBot: Artificial Intelligence is the field of building machines that can perform tasks that normally need human intelligence, like learning, reasoning, and understanding language.
+[2026-10-28 20:49:16] You: bye
+[2026-10-28 20:49:16] TechBot: See you later, Azim! Take care.
+[2026-10-28 21:05:04] You: hello
+[2026-10-28 21:05:04] TechBot: Hello! Good evening. How can I help you today?
+[2026-10-28 21:05:09] You: help
+[2026-10-28 21:05:09] TechBot: Here is what I can do:
+  - Greet you and remember your name  (try: 'My name is Aman')
+  - Tell the time and date            (try: 'What time is it?')
+  - Do maths                          (try: 'calculate 25 * 4 + 10')
+  - Tell jokes and fun facts          (try: 'Tell me a joke')
+  - Answer questions about AI         (try: 'What is AI?')
+  - Say goodbye                       (try: 'bye')
+[2026-10-28 21:05:17] You: my name is Azim
+[2026-10-28 21:05:17] TechBot: Nice to meet you, Azim! I'll remember your name.
+[2026-10-28 21:05:29] You: what is  AI
+[2026-10-28 21:05:29] TechBot: Artificial Intelligence is the field of building machines that can perform tasks that normally need human intelligence, like learning, reasoning, and understanding language.
+[2026-10-28 21:05:46] You: Calculate 25*4+10
+[2026-10-28 21:05:46] TechBot: 25*4+10 = 110
+[2026-10-28 21:05:54] You: bye
+[2026-10-28 21:05:54] TechBot: See you later, Azim! Take care.
